@@ -1,1 +1,1 @@
-module test_math_module
+module github.com/stripak/go-module
